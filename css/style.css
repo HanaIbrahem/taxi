@@ -144,6 +144,7 @@ nav .logo{
     background: -webkit-linear-gradient(#00e0fe, #1107fe);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  
   font-size: 54px;
 }
 
@@ -167,7 +168,10 @@ nav .logo{
 .review .stars {
     color: orange;
 }
+#ha i{
+    color: rgba(4, 162, 235, 0.5);
 
+}
 form .form-control {
     border-radius: 0;
     background: transparent;
